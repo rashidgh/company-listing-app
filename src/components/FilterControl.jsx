@@ -1,7 +1,7 @@
 export default function FilterControls({ search, onSearch }) {
   return (
     <div className="flex justify-center mb-4">
-      <div className="relative w-[50vw] max-w-md">
+      <div className="relative sm:w-[50vw] w-full max-w-md">
         <span className="absolute inset-y-0 left-3 flex items-center text-gray-400">
           🔍
         </span>
