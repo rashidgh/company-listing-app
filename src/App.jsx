@@ -96,7 +96,10 @@ function App() {
         <>
           <CompanyTable companies={currentCompanies} />
 
-          <div className="fixed bottom-4 left-1/2 -translate-x-1/2 flex gap-2 bg-gray-700 p-2 rounded shadow">
+          <div
+            className="w-full flex justify-center gap-2 sm:bg-gray-700 p-2 rounded shadow 
+                sm:fixed sm:bottom-4 sm:left-1/2 sm:-translate-x-1/2 sm:w-auto"
+          >
             <button
               onClick={() => goToPage(currentPage - 1)}
               disabled={currentPage === 1}
@@ -112,9 +115,7 @@ function App() {
                   key={page}
                   onClick={() => goToPage(page)}
                   className={`px-3 py-1 rounded ${
-                    currentPage === page
-                      ? "bg-blue-500"
-                      : "bg-gray-600"
+                    currentPage === page ? "bg-blue-500" : "bg-gray-600"
                   }`}
                 >
                   {page}
