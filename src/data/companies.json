@@ -1,0 +1,177 @@
+[
+  { "name": "TechNova", "location": "New York, USA", "industry": "Software" },
+  {
+    "name": "InnoSoft",
+    "location": "San Francisco, USA",
+    "industry": "IT Services"
+  },
+  {
+    "name": "NextGen Solutions",
+    "location": "London, UK",
+    "industry": "Consulting"
+  },
+  { "name": "AlphaCore", "location": "Berlin, Germany", "industry": "AI & ML" },
+  { "name": "BlueWave", "location": "Toronto, Canada", "industry": "Telecom" },
+  {
+    "name": "QuantumWorks",
+    "location": "Tokyo, Japan",
+    "industry": "Semiconductors"
+  },
+  {
+    "name": "Skyline Tech",
+    "location": "Sydney, Australia",
+    "industry": "Software"
+  },
+  {
+    "name": "EcoLogic",
+    "location": "Amsterdam, Netherlands",
+    "industry": "Green Tech"
+  },
+  { "name": "BrightLabs", "location": "Boston, USA", "industry": "Biotech" },
+  {
+    "name": "Nexa Systems",
+    "location": "Paris, France",
+    "industry": "IT Services"
+  },
+  { "name": "OmniTech", "location": "Singapore", "industry": "Electronics" },
+  {
+    "name": "DataPulse",
+    "location": "San Diego, USA",
+    "industry": "Data Analytics"
+  },
+  {
+    "name": "CoreVision",
+    "location": "Zurich, Switzerland",
+    "industry": "Finance Tech"
+  },
+  { "name": "FusionSoft", "location": "Austin, USA", "industry": "Software" },
+  {
+    "name": "CloudSphere",
+    "location": "Seattle, USA",
+    "industry": "Cloud Computing"
+  },
+  {
+    "name": "Vertex Solutions",
+    "location": "Dubai, UAE",
+    "industry": "Consulting"
+  },
+  {
+    "name": "PixelEdge",
+    "location": "Los Angeles, USA",
+    "industry": "Design & UX"
+  },
+  {
+    "name": "CyberWorks",
+    "location": "Tel Aviv, Israel",
+    "industry": "Cybersecurity"
+  },
+  { "name": "NeoLogic", "location": "Chicago, USA", "industry": "Software" },
+  { "name": "PrimeWave", "location": "Mumbai, India", "industry": "Telecom" },
+  { "name": "TechBridge", "location": "Hong Kong", "industry": "IT Services" },
+  {
+    "name": "BluePeak",
+    "location": "Vancouver, Canada",
+    "industry": "Green Tech"
+  },
+  {
+    "name": "InfoMatrix",
+    "location": "London, UK",
+    "industry": "Data Analytics"
+  },
+  { "name": "SmartCore", "location": "San Jose, USA", "industry": "AI & ML" },
+  {
+    "name": "Visionary Labs",
+    "location": "Stockholm, Sweden",
+    "industry": "Biotech"
+  },
+  {
+    "name": "QuantumEdge",
+    "location": "Seoul, South Korea",
+    "industry": "Electronics"
+  },
+  {
+    "name": "AlphaWave",
+    "location": "New Delhi, India",
+    "industry": "Software"
+  },
+  { "name": "BrightCore", "location": "Miami, USA", "industry": "Design & UX" },
+  { "name": "SkyTech", "location": "Oslo, Norway", "industry": "Software" },
+  {
+    "name": "NexaCloud",
+    "location": "Frankfurt, Germany",
+    "industry": "Cloud Computing"
+  },
+  {
+    "name": "FusionEdge",
+    "location": "Chicago, USA",
+    "industry": "Consulting"
+  },
+  {
+    "name": "DataSphere",
+    "location": "Boston, USA",
+    "industry": "Data Analytics"
+  },
+  { "name": "CoreTech", "location": "Berlin, Germany", "industry": "Software" },
+  {
+    "name": "PixelWorks",
+    "location": "San Francisco, USA",
+    "industry": "Design & UX"
+  },
+  { "name": "NeoWave", "location": "London, UK", "industry": "Telecom" },
+  { "name": "OmniLabs", "location": "Toronto, Canada", "industry": "Biotech" },
+  { "name": "PrimeTech", "location": "Singapore", "industry": "Electronics" },
+  {
+    "name": "VisionCore",
+    "location": "Zurich, Switzerland",
+    "industry": "Finance Tech"
+  },
+  {
+    "name": "BlueLogic",
+    "location": "Amsterdam, Netherlands",
+    "industry": "IT Services"
+  },
+  {
+    "name": "NextWave",
+    "location": "Sydney, Australia",
+    "industry": "Software"
+  },
+  { "name": "QuantumLabs", "location": "Tokyo, Japan", "industry": "AI & ML" },
+  {
+    "name": "Skyline Solutions",
+    "location": "Dubai, UAE",
+    "industry": "Consulting"
+  },
+  {
+    "name": "BrightWave",
+    "location": "Los Angeles, USA",
+    "industry": "Design & UX"
+  },
+  {
+    "name": "AlphaCore Systems",
+    "location": "San Diego, USA",
+    "industry": "Software"
+  },
+  {
+    "name": "TechSphere",
+    "location": "Boston, USA",
+    "industry": "Cloud Computing"
+  },
+  {
+    "name": "FusionWorks",
+    "location": "Chicago, USA",
+    "industry": "Data Analytics"
+  },
+  { "name": "DataEdge", "location": "San Jose, USA", "industry": "Software" },
+  {
+    "name": "CloudCore",
+    "location": "Seattle, USA",
+    "industry": "Cloud Computing"
+  },
+  { "name": "NeoTech", "location": "Mumbai, India", "industry": "Software" },
+  { "name": "OmniWave", "location": "Hong Kong", "industry": "IT Services" },
+  {
+    "name": "Vertex Labs",
+    "location": "Stockholm, Sweden",
+    "industry": "Biotech"
+  }
+]
