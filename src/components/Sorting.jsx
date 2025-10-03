@@ -13,11 +13,11 @@ export default function Sorting({
   };
 
   return (
-    <div className="flex items-center gap-2 sm:w-[50vw] w-[76vw]">
+    <div className="flex items-center gap-2 ">
       <select
         value={sortField}
         onChange={handleSortChange}
-        className="border text-white bg-gray-600 border-gray-600 rounded-full px-4 py-2 shadow-sm focus:outline-none sm:w-[50vw] w-full  focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition duration-200"
+        className="border text-white bg-gray-600 border-gray-600 rounded-full px-4 py-2 shadow-sm focus:outline-none sm:w-auto w-full  focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition duration-200"
       >
         <option value="">Sort by</option>
         <option value="name">Company Name</option>
@@ -28,7 +28,7 @@ export default function Sorting({
       {sortField && (
         <button
           onClick={toggleSortOrder}
-          className="px-3 py-2 bg-gray-600 rounded-full shadow-sm hover:bg-gray-700 transition"
+          className="px-3 py-2 bg-gray-600 w-[30vw] sm:w-auto rounded-full shadow-sm hover:bg-gray-700 transition"
         >
           {sortOrder === "asc" ? "↑ Asc" : "↓ Desc"}
         </button>
